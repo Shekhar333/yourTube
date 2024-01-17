@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project yourtube
 
 One Paragraph of project description goes here
@@ -47,3 +48,6 @@ clean up binary from the last build
 ```bash
 make clean
 ```
+=======
+# yourTube
+>>>>>>> origin/main
